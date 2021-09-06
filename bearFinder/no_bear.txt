@@ -1,0 +1,2 @@
+The word being searched for is not in the first line of this file,
+but is instead on the second line.  That word is "bear."
